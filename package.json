@@ -1,11 +1,11 @@
 {
-  "name": "nestedSortable",
-  "version": "1.3.4",
-  "author": "Manuele J Sarfatti <manuele@mjsarfatti.com>",
+  "name": "xe3-nestedSortable",
+  "version": "1.0.0",
+  "author": "XE Developers <developers@xpressenigne.com>",
   "description": "NestedSortable is a jQuery plugin that extends jQuery Sortable UI functionalities to nested lists.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ilikenwf/nestedSortable"
+    "url": "https://github.com/xpressengine/xe3-nestedSortable"
   },
   "main": "jquery.mjs.nestedSortable.js"
 }
