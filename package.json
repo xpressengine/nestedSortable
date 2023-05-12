@@ -1,6 +1,6 @@
 {
-  "name": "xe3-nestedSortable",
-  "version": "1.0.0",
+  "name": "xe3-nested-sortable",
+  "version": "1.0.1",
   "author": "XE Developers <developers@xpressenigne.com>",
   "description": "NestedSortable is a jQuery plugin that extends jQuery Sortable UI functionalities to nested lists.",
   "repository": {
